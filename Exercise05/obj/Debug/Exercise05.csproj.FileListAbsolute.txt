@@ -1,0 +1,7 @@
+C:\Users\MAARTEN\Desktop\ADSD\periode03\C#\Maarten\Exercise05\Exercise05\bin\Debug\Exercise05.exe.config
+C:\Users\MAARTEN\Desktop\ADSD\periode03\C#\Maarten\Exercise05\Exercise05\bin\Debug\Exercise05.exe
+C:\Users\MAARTEN\Desktop\ADSD\periode03\C#\Maarten\Exercise05\Exercise05\bin\Debug\Exercise05.pdb
+C:\Users\MAARTEN\Desktop\ADSD\periode03\C#\Maarten\Exercise05\Exercise05\obj\Debug\Exercise05.csprojAssemblyReference.cache
+C:\Users\MAARTEN\Desktop\ADSD\periode03\C#\Maarten\Exercise05\Exercise05\obj\Debug\Exercise05.csproj.CoreCompileInputs.cache
+C:\Users\MAARTEN\Desktop\ADSD\periode03\C#\Maarten\Exercise05\Exercise05\obj\Debug\Exercise05.exe
+C:\Users\MAARTEN\Desktop\ADSD\periode03\C#\Maarten\Exercise05\Exercise05\obj\Debug\Exercise05.pdb
